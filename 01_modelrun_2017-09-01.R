@@ -1,0 +1,7 @@
+source("00_modelsetup_2017-09-24.R")
+source("02_select_simulation_variables_2017-09-01.R")
+source("03_adult_mortality_2017-09-01.R")
+source("04_adult_movement_2017-09-01.R")
+source("05_adjust_adult_movement_2017-09-01.R")
+source("06_make_all_the_pretty_plots_2017-09-02.R")
+source("07_run_stats_2017-09-01.R")
